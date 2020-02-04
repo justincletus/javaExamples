@@ -1,6 +1,6 @@
 class PalindromeTest {
     public static void main(String[] args) {
-        String name = "mada";
+        String name = "mom";
         String reverse = "";
 
         int len = name.length();
